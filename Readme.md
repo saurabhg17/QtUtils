@@ -4,6 +4,6 @@ QtUtils is a collection of useful cross-platform classes for Qt framework. The c
 
 Following is the list of all classes present.
 
-`SColorPicker`: A widget for picking color using system’s color dialog.
+* `SColorPicker`: A widget for picking color using system’s color dialog.
+* `SStringSelector`: A widget for selecting a single string from a predefined list of strings.
 
-`SStringSelector`: A widget for selecting a single string from a predefined list of strings.
