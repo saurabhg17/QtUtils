@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29215.179
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SColorPicker_Demo", "SColorPicker_Demo.vcxproj", "{B12702AD-ABFB-343A-A199-8E24837244A3}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SColorPicker_Demo", "SColorPicker_Demo\SColorPicker_Demo.vcxproj", "{B12702AD-ABFB-343A-A199-8E24837244A3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SStringSelector_Demo", "SStringSelector_Demo\SStringSelector_Demo.vcxproj", "{FBDB6EE9-7DE2-492A-BD64-4F62CC32635A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{B12702AD-ABFB-343A-A199-8E24837244A3}.Debug|x64.Build.0 = Debug|x64
 		{B12702AD-ABFB-343A-A199-8E24837244A3}.Release|x64.ActiveCfg = Release|x64
 		{B12702AD-ABFB-343A-A199-8E24837244A3}.Release|x64.Build.0 = Release|x64
+		{FBDB6EE9-7DE2-492A-BD64-4F62CC32635A}.Debug|x64.ActiveCfg = Debug|x64
+		{FBDB6EE9-7DE2-492A-BD64-4F62CC32635A}.Debug|x64.Build.0 = Debug|x64
+		{FBDB6EE9-7DE2-492A-BD64-4F62CC32635A}.Release|x64.ActiveCfg = Release|x64
+		{FBDB6EE9-7DE2-492A-BD64-4F62CC32635A}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
